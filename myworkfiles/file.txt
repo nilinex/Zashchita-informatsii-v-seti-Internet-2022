@@ -1,1 +1,3 @@
-Hello world (new)
+5.34
+5
+0.34
